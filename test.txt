@@ -1,1 +1,9 @@
-this is a test. you shouldn't be seeing this.
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="5; url='https://ckegley.xyz'" />
+  </head>
+  <body>
+    <p>this is a test. you shouldn't be seeing this.</p>
+  </body>
+</html>
